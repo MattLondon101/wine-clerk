@@ -1,6 +1,6 @@
 # wine Clerk  
 
-Created by Jacob Pierce
+Created by [Jacob Pierce](https://github.com/jacobpierce)
 
 **Compatibility:** [WineBid.com](http://www.winebid.com)
 
